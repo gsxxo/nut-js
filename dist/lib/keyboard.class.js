@@ -21,7 +21,7 @@ class Keyboard {
       /**
        * Remove shit delay that is here for absolutely no reason at all
        */
-      autoDelayMs: 5,
+      autoDelayMs: 0,
     };
     this.nativeAdapter.setKeyboardDelay(this.config.autoDelayMs);
   }

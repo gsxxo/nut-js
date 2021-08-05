@@ -1,7 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const native_adapter_class_1 = require("./lib/adapter/native.adapter.class");
-const assert_class_1 = require("./lib/assert.class");
 const clipboard_class_1 = require("./lib/clipboard.class");
 const keyboard_class_1 = require("./lib/keyboard.class");
 const mouse_class_1 = require("./lib/mouse.class");
